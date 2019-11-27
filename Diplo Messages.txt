@@ -11,6 +11,7 @@
  DPE_HOSTILE_GREETING_8:0 "We are loath to listen to one as lowly born as you, [From.GetRulerTitle] [From.GetRulerName]."
  
  
+ 
  DPE_FRIENDLY_GREETING_1:0 "Peace favour you, [From.GetSpeciesName]."
  
  
@@ -30,5 +31,3 @@
  
  friendly, neutral, hostile
  DPE_INSULT_ACCEPT_1
- 
-
