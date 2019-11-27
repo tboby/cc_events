@@ -10,5 +10,6 @@ jobs:
     - uses: tboby/CWTools-action@reviewdog
       with:
         game: stellaris
+        changedFilesOnly: "0"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # required
