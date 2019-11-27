@@ -16,5 +16,3 @@ Militarist:
 Xenophile:
 -Fight the crisis
 -Expand the federation
-
-
