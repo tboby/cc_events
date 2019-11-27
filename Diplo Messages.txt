@@ -30,3 +30,4 @@
  
  friendly, neutral, hostile
  DPE_INSULT_ACCEPT_1
+ 
