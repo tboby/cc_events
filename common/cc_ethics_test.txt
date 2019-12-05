@@ -3,6 +3,7 @@ ccethics_planet_test1 = {
 	pop_government_ethic_attraction = 1
 }
 
+
 ccethics_planet_test2 = {
 	pop_government_ethic_attraction = -0.25
 }
