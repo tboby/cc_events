@@ -42,7 +42,7 @@ jobs:
       with:
         game: stellaris
         locLanguages: "english" # change this to what localisation languages your mod supports 
-        changedFilesOnly : "1" 
+        changedFilesOnly : "0" 
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Upload output.json
